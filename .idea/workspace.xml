@@ -1,232 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d0c75a0-c69b-4d8b-9ce1-2666c7f30bf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Gray_photo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_label.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_label.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/show_photo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test-volume.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/25.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/27.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/28.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/test/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/test/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train-label.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train-volume.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_0_9077178.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_0_9077178.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_0_9986536.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_0_9986536.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_10_6660088.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_10_6660088.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_10_7714598.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_10_7714598.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_11_2837909.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_11_2837909.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_11_3622089.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_11_3622089.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_12_1774130.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_12_1774130.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_12_6474794.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_12_6474794.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_13_1283123.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_13_1283123.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_13_2917011.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_13_2917011.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_14_170442.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_14_170442.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_14_4412252.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_14_4412252.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_15_191733.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_15_191733.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_15_7159703.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_15_7159703.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_16_2807358.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_16_2807358.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_16_5553526.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_16_5553526.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_17_4097596.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_17_4097596.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_17_5429454.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_17_5429454.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_18_6454050.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_18_6454050.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_18_6777564.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_18_6777564.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_19_3484329.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_19_3484329.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_19_4909798.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_19_4909798.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_1_3080959.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_1_3080959.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_1_6725311.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_1_6725311.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_20_1585978.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_20_1585978.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_20_7169350.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_20_7169350.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_21_1903183.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_21_1903183.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_21_5218449.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_21_5218449.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_22_6690750.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_22_6690750.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_22_817996.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_22_817996.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_23_288044.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_23_288044.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_23_783588.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_23_783588.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_24_4273200.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_24_4273200.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_24_6858616.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_24_6858616.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_25_124914.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_25_124914.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_25_5294864.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_25_5294864.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_26_1931026.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_26_1931026.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_26_8801510.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_26_8801510.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_27_2361256.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_27_2361256.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_27_2967675.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_27_2967675.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_28_3456063.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_28_3456063.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_28_4798772.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_28_4798772.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_29_7125951.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_29_7125951.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_29_8786524.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_29_8786524.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_2_5692672.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_2_5692672.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_2_6018253.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_2_6018253.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_3_559344.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_3_559344.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_3_5707479.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_3_5707479.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_4_4979445.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_4_4979445.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_4_8710326.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_4_8710326.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_5_1578477.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_5_1578477.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_5_9230983.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_5_9230983.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_6_53373.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_6_53373.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_6_9441904.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_6_9441904.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_7_5484409.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_7_5484409.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_7_6224010.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_7_6224010.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_8_1844539.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_8_1844539.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_8_4209262.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_8_4209262.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_9_5969630.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_9_5969630.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/image_9_8002635.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/image_9_8002635.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_0_9077178.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_0_9077178.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_0_9986536.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_0_9986536.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_10_6660088.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_10_6660088.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_10_7714598.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_10_7714598.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_11_2837909.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_11_2837909.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_11_3622089.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_11_3622089.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_12_1774130.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_12_1774130.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_12_6474794.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_12_6474794.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_13_1283123.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_13_1283123.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_13_2917011.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_13_2917011.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_14_170442.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_14_170442.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_14_4412252.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_14_4412252.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_15_191733.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_15_191733.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_15_7159703.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_15_7159703.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_16_2807358.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_16_2807358.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_16_5553526.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_16_5553526.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_17_4097596.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_17_4097596.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_17_5429454.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_17_5429454.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_18_6454050.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_18_6454050.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_18_6777564.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_18_6777564.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_19_3484329.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_19_3484329.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_19_4909798.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_19_4909798.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_1_3080959.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_1_3080959.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_1_6725311.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_1_6725311.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_20_1585978.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_20_1585978.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_20_7169350.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_20_7169350.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_21_1903183.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_21_1903183.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_21_5218449.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_21_5218449.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_22_6690750.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_22_6690750.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_22_817996.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_22_817996.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_23_288044.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_23_288044.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_23_783588.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_23_783588.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_24_4273200.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_24_4273200.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_24_6858616.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_24_6858616.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_25_124914.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_25_124914.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_25_5294864.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_25_5294864.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_26_1931026.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_26_1931026.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_26_8801510.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_26_8801510.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_27_2361256.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_27_2361256.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_27_2967675.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_27_2967675.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_28_3456063.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_28_3456063.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_28_4798772.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_28_4798772.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_29_7125951.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_29_7125951.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_29_8786524.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_29_8786524.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_2_5692672.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_2_5692672.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_2_6018253.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_2_6018253.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_3_559344.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_3_559344.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_3_5707479.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_3_5707479.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_4_4979445.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_4_4979445.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_4_8710326.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_4_8710326.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_5_1578477.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_5_1578477.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_5_9230983.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_5_9230983.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_6_53373.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_6_53373.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_6_9441904.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_6_9441904.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_7_5484409.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_7_5484409.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_7_6224010.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_7_6224010.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_8_1844539.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_8_1844539.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_8_4209262.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_8_4209262.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_9_5969630.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_9_5969630.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/aug/mask_9_8002635.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/aug/mask_9_8002635.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/image/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/25.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/27.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/28.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainUnet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/trainUnet.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="6d0c75a0-c69b-4d8b-9ce1-2666c7f30bf7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,13 +87,22 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="559875052">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-627">
               <caret column="28" selection-start-column="28" selection-end-column="28" />
             </state>
           </provider>
@@ -327,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
+            <state relative-caret-position="1045">
               <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -339,8 +123,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="152" column="38" lean-forward="true" selection-start-line="152" selection-start-column="38" selection-end-line="152" selection-end-column="38" />
+            <state relative-caret-position="2679">
+              <caret line="152" column="38" selection-start-line="152" selection-start-column="38" selection-end-line="152" selection-end-column="38" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
                 <element signature="e#195#218#0" />
@@ -427,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -463,12 +248,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="labelVisualize&#9;null&#9;null" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/U-net-multiclass" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -647,7 +431,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.15699404" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.17410715" />
@@ -834,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-38">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -875,9 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -897,9 +674,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627">
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="1045">
           <caret line="57" column="16" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -909,19 +693,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="152" column="38" lean-forward="true" selection-start-line="152" selection-start-column="38" selection-end-line="152" selection-end-column="38" />
+        <state relative-caret-position="2679">
+          <caret line="152" column="38" selection-start-line="152" selection-start-column="38" selection-end-line="152" selection-end-column="38" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
             <element signature="e#195#218#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
