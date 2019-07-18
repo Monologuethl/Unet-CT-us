@@ -308,7 +308,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.show_photo">
+  <component name="RunManager" selected="Python.main">
     <configuration name="unet-master" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="unet-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -435,8 +435,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.show_photo" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.show_photo" />
         <item itemvalue="Python.Gray_photo" />
         <item itemvalue="Python.process_label" />
         <item itemvalue="Python tests.pytest in data.py" />
