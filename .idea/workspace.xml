@@ -2,115 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d0c75a0-c69b-4d8b-9ce1-2666c7f30bf7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/100.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/101.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/101.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/102.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/102.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/103.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/103.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/13.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/15.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/20.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/21.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/24.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/25.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/26.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/27.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/28.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/30.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/31.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/33.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/34.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/34.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/35.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/36.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/37.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/38.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/39.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/39.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/40.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/41.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/41.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/42.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/42.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/43.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/43.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/44.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/44.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/45.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/45.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/46.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/46.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/47.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/47.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/48.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/49.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/49.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/50.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/50.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/51.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/51.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/52.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/52.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/53.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/53.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/54.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/54.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/55.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/55.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/56.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/56.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/57.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/57.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/58.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/58.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/59.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/59.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/60.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/60.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/61.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/61.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/62.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/62.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/63.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/63.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/64.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/64.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/65.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/65.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/66.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/66.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/67.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/67.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/68.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/68.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/69.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/69.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/70.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/70.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/71.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/71.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/72.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/72.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/73.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/73.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/74.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/74.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/75.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/75.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/76.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/76.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/77.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/77.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/78.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/78.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/79.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/79.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/80.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/80.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/81.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/81.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/82.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/82.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/83.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/83.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/84.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/84.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/85.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/85.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/86.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/86.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/87.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/87.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/88.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/88.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/89.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/89.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/90.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/90.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/91.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/91.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/92.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/92.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/93.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/93.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/94.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/94.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/95.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/95.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/96.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/96.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/97.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/97.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/98.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/98.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/membrane/train/label2/99.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/membrane/train/label/99.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_label.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_label.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/show_photo.py" beforeDir="false" afterPath="$PROJECT_DIR$/show_photo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainUnet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/trainUnet.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -202,31 +94,33 @@
         <counts>
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="8" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="ipynb" value="1" />
           <entry key="jpg" value="1" />
           <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IPNB" value="1" />
           <entry key="Image" value="1" />
           <entry key="Python" value="4" />
         </counts>
@@ -238,8 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="7" selection-end-column="40" />
+            <state>
+              <caret selection-end-line="1" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -248,31 +142,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/show_photo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/tensorflow/python/keras/engine/training.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-754">
-              <caret line="1942" column="29" selection-start-line="1942" selection-start-column="20" selection-end-line="1942" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
-              <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+        <entry file="file://$PROJECT_DIR$/trainUnet.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -310,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/trainUnet.ipynb" />
         <option value="$PROJECT_DIR$/dcm_png.py" />
         <option value="$PROJECT_DIR$/photo_channel.py" />
         <option value="$PROJECT_DIR$/binary_photo.py" />
@@ -322,6 +194,7 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/model.py" />
         <option value="$PROJECT_DIR$/show_photo.py" />
+        <option value="$PROJECT_DIR$/trainUnet.ipynb" />
       </list>
     </option>
   </component>
@@ -355,7 +228,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -381,18 +253,11 @@
               <item name="membrane" type="462c0819:PsiDirectoryNode" />
               <item name="train" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Unet-US" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Unet-US" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="membrane" type="462c0819:PsiDirectoryNode" />
-              <item name="train" type="462c0819:PsiDirectoryNode" />
-              <item name="label" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -584,7 +449,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.15699404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.15699404" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.17410715" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -744,16 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trainUnet.ipynb">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-228" />
-      </provider>
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/keras/callbacks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -817,12 +672,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/membrane/train/images1/0.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/membrane/train/images1/0.jpg" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/tensorflow/python/keras/engine/training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-754">
+        <state relative-caret-position="36309">
           <caret line="1942" column="29" selection-start-line="1942" selection-start-column="20" selection-end-line="1942" selection-end-column="29" />
         </state>
       </provider>
@@ -834,23 +687,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/show_photo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="7" selection-end-column="40" />
+        <state>
+          <caret selection-end-line="1" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/show_photo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/trainUnet.ipynb">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
