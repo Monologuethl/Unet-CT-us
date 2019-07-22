@@ -15,7 +15,7 @@ data_gen_args = dict(rotation_range=0.2,
                      horizontal_flip=True,
                      fill_mode='nearest')  # 数据增强时的变换方式的字典
 
-myGene = trainGenerator(2, 'data/membrane/train', 'image', 'label', data_gen_args, save_to_dir=None)
+myGene = trainGenerator(2, 'data/membrane/train', 'image', 'label1', data_gen_args, save_to_dir=None)
 # 得到一个生成器，以batch=2的速率无限生成增强后的数据
 
 model = unet()
@@ -28,17 +28,17 @@ model.fit_generator(myGene, steps_per_epoch=30, epochs=1, callbacks=[model_check
 # 上面一行是利用生成器进行batch_size数量的训练，样本和标签通过myGene传入
 
 # ----------------------------------------------------------------------------------------------------------------------
-testGene = testGenerator("data/membrane/test")
-
-# 30是step,steps: 在停止之前，来自 generator 的总步数 (样本批次)。 可选参数 Sequence：如果未指定，将使用len(generator) 作为步数。
-results = model.predict_generator(testGene, 104, verbose=1)
-
-
-# results[results > 0.5] = 255
-# results[results < 0.5] = 0
-# 返回值是：预测值的 Numpy 数组。
-
-saveResult("data/membrane/test", results)
+# testGene = testGenerator("data/membrane/test")
+#
+# # 30是step,steps: 在停止之前，来自 generator 的总步数 (样本批次)。 可选参数 Sequence：如果未指定，将使用len(generator) 作为步数。
+# results = model.predict_generator(testGene, 104, verbose=1)
+#
+#
+# # results[results > 0.5] = 255
+# # results[results < 0.5] = 0
+# # 返回值是：预测值的 Numpy 数组。
+#
+# saveResult("data/membrane/test", results)
 
 # ----------------------------------------------------------------------------------------------------------------------
 # data_gen_args = dict(rotation_range=0.2,
@@ -48,7 +48,7 @@ saveResult("data/membrane/test", results)
 #                      zoom_range=0.05,
 #                      horizontal_flip=True,
 #                      fill_mode='nearest')
-# myGene = trainGenerator(2, 'data/membrane/train', 'image', 'label', data_gen_args, save_to_dir=None)
+# myGene = trainGenerator(2, 'data/membrane/train', 'image', 'label1', data_gen_args, save_to_dir=None)
 # model = unet()
 # model_checkpoint = ModelCheckpoint('unet_membrane.hdf5', monitor='loss', verbose=1, save_best_only=True)
 # model.fit_generator(myGene, steps_per_epoch=30, epochs=1, callbacks=[model_checkpoint])
