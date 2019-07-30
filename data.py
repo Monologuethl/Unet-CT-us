@@ -6,26 +6,21 @@ import glob
 import skimage.io as io
 import skimage.transform as trans
 
-# Sky = [128, 128, 128]
-# Building = [128, 0, 0]
-# Pole = [192, 192, 128]
-# Road = [128, 64, 128]
-# Pavement = [60, 40, 222]
-# Tree = [128, 128, 0]
-# SignSymbol = [192, 128, 128]
-# Fence = [64, 64, 128]
-# Car = [64, 0, 128]
-# Pedestrian = [64, 64, 0]
-# Bicyclist = [0, 128, 192]
-# Unlabelled = [0, 0, 0]
+Sky = [128, 128, 128]
+Building = [128, 0, 0]
+Pole = [192, 192, 128]
+Road = [128, 64, 128]
+Pavement = [60, 40, 222]
+Tree = [128, 128, 0]
+SignSymbol = [192, 128, 128]
+Fence = [64, 64, 128]
+Car = [64, 0, 128]
+Pedestrian = [64, 64, 0]
+Bicyclist = [0, 128, 192]
+Unlabelled = [0, 0, 0]
 
-Skin = [0, 0, 128]
-Fat = [0, 128, 0]
-Subcutaneous = [128, 128, 0]
-Peritoneal = [128, 0, 0]
-
-# COLOR_DICT = np.array([Sky, Building, Pole, Road, Pavement, Tree, SignSymbol, Fence, Car, Pedestrian, Bicyclist, Unlabelled])
-COLOR_DICT = np.array([Skin, Fat, Subcutaneous, Peritoneal])
+COLOR_DICT = np.array([Sky, Building, Pole, Road, Pavement,
+                       Tree, SignSymbol, Fence, Car, Pedestrian, Bicyclist, Unlabelled])
 
 
 def adjustData(img, mask, flag_multi_class, num_class):
@@ -61,7 +56,7 @@ def adjustData(img, mask, flag_multi_class, num_class):
 
 def trainGenerator(batch_size, train_path, image_folder, mask_folder, aug_dict, image_color_mode="grayscale",
                    mask_color_mode="grayscale", image_save_prefix="image", mask_save_prefix="mask",
-                   flag_multi_class=False, num_class=4, save_to_dir=None, target_size=(256, 256), seed=1):
+                   flag_multi_class=False, num_class=2, save_to_dir=None, target_size=(256, 256), seed=1):
     '''
     can generate image and mask at the same time
     use the same seed for image_datagen and mask_datagen to ensure the transformation for image and mask is the same
@@ -114,7 +109,7 @@ def testGenerator(test_path, num_image=30, target_size=(256, 256), flag_multi_cl
 
 # 上面这个函数主要是对测试图片进行规范，使其尺寸和维度上和训练图片保持一致
 
-def geneTrainNpy(image_path, mask_path, flag_multi_class=False, num_class=4, image_prefix="image", mask_prefix="mask",
+def geneTrainNpy(image_path, mask_path, flag_multi_class=False, num_class=2, image_prefix="image", mask_prefix="mask",
                  image_as_gray=True, mask_as_gray=True):
     image_name_arr = glob.glob(os.path.join(image_path, "%s*.png" % image_prefix))
     # 相当于文件搜索，搜索某路径下与字符匹配的文件https://blog.csdn.net/u010472607/article/details/76857493/
@@ -149,7 +144,7 @@ def labelVisualize(num_class, color_dict, img):
 
 # 上面函数是给出测试后的输出之后，为输出涂上不同的颜色，多类情况下才起作用，两类的话无用
 
-def saveResult(save_path, npyfile, flag_multi_class=True, num_class=4):
+def saveResult(save_path, npyfile, flag_multi_class=False, num_class=2):
     for i, item in enumerate(npyfile):
         img = labelVisualize(num_class, COLOR_DICT, item) if flag_multi_class else item[:, :, 0]
         # 多类的话就图成彩色，非多类（两类）的话就是黑白色
